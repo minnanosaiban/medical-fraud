@@ -1,0 +1,227 @@
+/* フォント */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap');
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.fa, .fas, .far, .fal, .fad, .fab, 
+.bi {
+    font-family: initial !important;
+}
+/* 色 */
+:root {
+    /* 使用するテーマカラー */
+    --web-color-primary: #4A90E2; /* : var(--web-color-primary); */
+    --web-color-secondary: #8045e5; /* : var(--web-color-secondary); */
+    /* カラーパレット */
+    --link-color: #4A90E2;
+    --strong-color: #dc3545;
+    --table-color: #e5e7ea;
+    --blue: #4A90E2;
+    --green: #28a745;
+	--purple: #8045e5;
+	--orange: #f37726;
+	--red: #dc3545;
+    /* オレンジ系テーマ */
+    --theme-or-primary: #e94709;
+    --theme-or-secondary: #fbdace;
+    --theme-or-tertiary: #eeebe9;
+    /* ブルー系テーマ */
+    --theme-or-primary: #0072bc;
+    --theme-or-secondary: #2e404d;
+    --theme-or-tertiary: #ffc400;
+    --theme-or-brite: #007aff;
+}
+
+/* 非表示 */
+.widget-search {
+    display: none !important;
+}
+/* 文字装飾 */
+.strong-rd {
+	font-weight: 700;
+	color:var(--strong-color);
+}
+.center {
+    text-align: center;
+} 
+@media screen and (max-width: 767px) {
+	.center {
+		text-align: left;
+	} 
+}
+/* インデント */
+.idt {
+	margin:0;
+	text-indent:1em;
+}
+.hg-idt {
+	margin:0;
+	padding-left:1em;
+	text-indent:-1em;
+}
+.hg-idt2 {
+	margin:0;
+	padding-left:2em;
+	text-indent:-2em;
+}
+.pad1 {
+	margin:0;
+	padding-left:1em;
+}
+.pad2 {
+	margin:0;
+	padding-left:2em;
+}
+.pad3 {
+	margin:0;
+	padding-left:3em;
+}
+.pad4 {
+	margin:0;
+	padding-left:4em;
+}
+.pad5 {
+	margin:0;
+	padding-left:5em;
+}
+.pad6 {
+	margin:0;
+	padding-left:6em;
+}
+/* シェアボタン */
+.bdg-dark {
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: .75em;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    color: #FFFFFF !important;
+    background-color: #000000;
+} 
+.bdg-dark:hover {
+	background-color: #707070;
+	color: #FFFFFF;
+}
+/* カード（ページトップ） */
+.card-top-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.card-top {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+	margin-bottom: 4rem;
+}
+.card-top-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.card-top-content {
+    font-size: 1em;
+}
+/* カード（ページボトム） */
+.card-bottom-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.card-bottom {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+	margin-top: 4rem;
+}
+.card-bottom-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.card-bottom-content {
+    font-size: 1em;
+}
+/* カード（リンクカード） */
+.link-card {
+    border: 1px solid #ddd;
+    overflow: hidden;
+    width: 100%;
+    background: #fff;
+    transition: 0.3s;
+	margin-bottom: 4rem;
+} 
+.link-card a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+.link-card-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0 0 20px;
+    gap: 10px;
+}
+.link-text {
+    flex: 1;
+}
+.link-text strong {
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 400;
+}
+.link-text p {
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 300;
+    margin: 0 0 20px 0;
+}
+.link-image {
+    width: 320px;
+    height:200px;
+    flex-shrink: 0;
+}
+.link-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.link-card:hover {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.link-card a:hover {
+    text-decoration: none;
+}
+@media screen and (max-width: 767px) {
+    .link-card-content {
+		flex-direction: column;
+		align-items: flex-start;
+    }    
+    .link-image {
+		width: 100%;
+		height: auto;
+    }  
+    .link-text {
+		padding: 10px 0;
+    }
+}
+/* Twitterカード */
+.tweet-container {
+    display: flex;
+    justify-content: center;
+	margin-top: 32px;
+	margin-top: 2rem;
+	margin-bottom: 32px;
+	margin-bottom: 2rem;
+}

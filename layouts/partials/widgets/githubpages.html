@@ -1,0 +1,14 @@
+{{- if .Site.Params.widgets.githubpages }}
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">GitHub Pages Links</h4>
+	<div class="widget-social__content widget__content">
+		{{ range .Site.Params.widgets.githubpages.custom }}
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="{{ .title }}" {{ with .rel | default "noopener noreferrer" }} rel="{{ . }}"{{ end }} href="{{ .url }}" target="_blank">
+				<span>{{ .title }}</span>
+			</a>
+		</div>
+		{{ end }}
+	</div>
+</div>
+{{- end }}

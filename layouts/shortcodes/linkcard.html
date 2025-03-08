@@ -1,0 +1,14 @@
+<div class="link-card">
+    <a href="{{ .Get 0 }}" target="_blank" rel="noopener">
+      <div class="link-card-content">
+        <div class="link-text">
+          <strong>{{ .Get 1 }}</strong>
+          <p>{{ .Get 2 }}</p>
+        </div>
+        <div class="link-image">
+          <img src="{{ .Get 3 }}" alt="Thumbnail">
+        </div>
+      </div>
+    </a>
+  </div>
+  
