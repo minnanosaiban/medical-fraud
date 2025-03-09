@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>判決文 on 原告勝訴！　公益通報者に対する報復措置が認められました。不正診療請求、恣意的な医療、国民が収めた税金・社会保険料の無駄遣いは許さない📌</title>
-    <link>https://minnanosaiban.github.io/medical-fraud/tags/%E5%88%A4%E6%B1%BA%E6%96%87/</link>
+    <link>http://localhost:1313/medical-fraud/tags/%E5%88%A4%E6%B1%BA%E6%96%87/</link>
     <description>Recent content in 判決文 on 原告勝訴！　公益通報者に対する報復措置が認められました。不正診療請求、恣意的な医療、国民が収めた税金・社会保険料の無駄遣いは許さない📌</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
-    <atom:link href="https://minnanosaiban.github.io/medical-fraud/tags/%E5%88%A4%E6%B1%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/medical-fraud/tags/%E5%88%A4%E6%B1%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>判決文原文</title>
-      <link>https://minnanosaiban.github.io/medical-fraud/docs/judgment-original/</link>
+      <link>http://localhost:1313/medical-fraud/docs/judgment-original/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://minnanosaiban.github.io/medical-fraud/docs/judgment-original/</guid>
+      <guid>http://localhost:1313/medical-fraud/docs/judgment-original/</guid>
       <description>&lt;div class=&#34;card-top-container&#34;&gt;&#xA;    &lt;div class=&#34;card-top&#34;&gt;&#xA;        &lt;div class=&#34;card-top-content&#34;&gt;&#xA;            判決文原文、PDFの用意があります。（ &lt;a href=&#34;https://example.com/&#34;&gt;判決文&lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&#xA;令和５年１２月５日判決言渡&#xA;&lt;p&gt;&#xA;主文&#xA;&lt;p class=&#34;pad1 hg-idt&#34;&gt;&#xA;１　被告学校法人獨協学園、被告■■■■、被告■■■、被告■■■■及び被告■■■■は、原告に対し、連帯して、５０万円及びこれに対する被告学校法人獨協学園、被告■■■■、被告■■■及び被告■■■■は、令和２年２月２８日から、被告■■■■は、同年３月１日から、各支払済みまで年５分の割合による金員を支払え。</description>
     </item>
     <item>
       <title>判決文解説</title>
-      <link>https://minnanosaiban.github.io/medical-fraud/docs/judgment-analysis/</link>
+      <link>http://localhost:1313/medical-fraud/docs/judgment-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://minnanosaiban.github.io/medical-fraud/docs/judgment-analysis/</guid>
+      <guid>http://localhost:1313/medical-fraud/docs/judgment-analysis/</guid>
       <description>&lt;div class=&#34;card-top-container&#34;&gt;&#xA;    &lt;div class=&#34;card-top&#34;&gt;&#xA;        &lt;div class=&#34;card-top-content&#34;&gt;&#xA;            難しい判決文の解説です。ChatGPTを活用しています。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>最高裁が病院側の上告を却下</title>
-      <link>https://minnanosaiban.github.io/medical-fraud/docs/supreme-court-dismissal/</link>
+      <link>http://localhost:1313/medical-fraud/docs/supreme-court-dismissal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://minnanosaiban.github.io/medical-fraud/docs/supreme-court-dismissal/</guid>
+      <guid>http://localhost:1313/medical-fraud/docs/supreme-court-dismissal/</guid>
       <description>&lt;div class=&#34;card-top-container&#34;&gt;&#xA;    &lt;div class=&#34;card-top&#34;&gt;&#xA;        &lt;div class=&#34;card-top-content&#34;&gt;&#xA;            最高裁の却下決定書、PDFの用意があります。（ &lt;a href=&#34;https://example.com/&#34;&gt;却下決定書&lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

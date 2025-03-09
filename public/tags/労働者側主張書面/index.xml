@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>労働者側主張書面 on 原告勝訴！　公益通報者に対する報復措置が認められました。不正診療請求、恣意的な医療、国民が収めた税金・社会保険料の無駄遣いは許さない📌</title>
-    <link>https://minnanosaiban.github.io/medical-fraud/tags/%E5%8A%B4%E5%83%8D%E8%80%85%E5%81%B4%E4%B8%BB%E5%BC%B5%E6%9B%B8%E9%9D%A2/</link>
+    <link>http://localhost:1313/medical-fraud/tags/%E5%8A%B4%E5%83%8D%E8%80%85%E5%81%B4%E4%B8%BB%E5%BC%B5%E6%9B%B8%E9%9D%A2/</link>
     <description>Recent content in 労働者側主張書面 on 原告勝訴！　公益通報者に対する報復措置が認められました。不正診療請求、恣意的な医療、国民が収めた税金・社会保険料の無駄遣いは許さない📌</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
-    <atom:link href="https://minnanosaiban.github.io/medical-fraud/tags/%E5%8A%B4%E5%83%8D%E8%80%85%E5%81%B4%E4%B8%BB%E5%BC%B5%E6%9B%B8%E9%9D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/medical-fraud/tags/%E5%8A%B4%E5%83%8D%E8%80%85%E5%81%B4%E4%B8%BB%E5%BC%B5%E6%9B%B8%E9%9D%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>原告の主張書面原文</title>
-      <link>https://minnanosaiban.github.io/medical-fraud/docs/plaintiff-claims-original/</link>
+      <link>http://localhost:1313/medical-fraud/docs/plaintiff-claims-original/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://minnanosaiban.github.io/medical-fraud/docs/plaintiff-claims-original/</guid>
+      <guid>http://localhost:1313/medical-fraud/docs/plaintiff-claims-original/</guid>
       <description>&lt;div class=&#34;card-top-container&#34;&gt;&#xA;    &lt;div class=&#34;card-top&#34;&gt;&#xA;        &lt;div class=&#34;card-top-content&#34;&gt;&#xA;            原告の主張書面原文、PDFの用意があります。（ &lt;a href=&#34;https://example.com/&#34;&gt;訴状&lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&#xA;令和２年２月３日&#xA;&lt;p class=&#34;pad1 hg-idt&#34;&gt;&#xA;第１　請求の趣旨&#xA;&lt;p class=&#34;pad2 hg-idt&#34;&gt;&#xA;１　被告らは、原告に対し、連帯して、金５００万００００円及びこれに対する訴状送達の日の翌日から支払済みまでの年５分の割合による金員を支払え。&#xA;&lt;p class=&#34;pad2 hg-idt&#34;&gt;&#xA;２　訴訟費用は、被告らの負担とする。&#xA;&lt;p class=&#34;pad2&#34;&gt;&#xA;との判決並びに仮執行宣言を求める</description>
     </item>
     <item>
       <title>裁判における８つの争点について</title>
-      <link>https://minnanosaiban.github.io/medical-fraud/docs/dispute-point/</link>
+      <link>http://localhost:1313/medical-fraud/docs/dispute-point/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://minnanosaiban.github.io/medical-fraud/docs/dispute-point/</guid>
+      <guid>http://localhost:1313/medical-fraud/docs/dispute-point/</guid>
       <description>&lt;div class=&#34;card-top-container&#34;&gt;&#xA;    &lt;div class=&#34;card-top&#34;&gt;&#xA;        &lt;div class=&#34;card-top-content&#34;&gt;&#xA;            裁判における８つの争点について&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>通報者（原告）の主張について</title>
-      <link>https://minnanosaiban.github.io/medical-fraud/docs/plaintiff-claims/</link>
+      <link>http://localhost:1313/medical-fraud/docs/plaintiff-claims/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://minnanosaiban.github.io/medical-fraud/docs/plaintiff-claims/</guid>
+      <guid>http://localhost:1313/medical-fraud/docs/plaintiff-claims/</guid>
       <description>&lt;div class=&#34;card-top-container&#34;&gt;&#xA;    &lt;div class=&#34;card-top&#34;&gt;&#xA;        &lt;div class=&#34;card-top-content&#34;&gt;&#xA;            通報者（原告）の主張について解説します。ChatGPTを活用しています。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
