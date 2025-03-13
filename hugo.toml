@@ -6,12 +6,12 @@ pagination.pagerSize = "10"
 theme = "mainroad"
 # プロフィール
 # [Author]
-#   name = "TOMO"
+#   name = "Tomo"
 #   bio = "非エンジニアです"
 #   avatar = "img/avatar.png"
 [Params]
   description = "原告勝訴！　公益通報者に対する報復措置が認められました。不正診療請求、恣意的な医療、国民が収めた税金・社会保険料の無駄遣いは許さない📌" # ★★★ 検索エンジン向けの説明
-  copyright = "TOMO" # 著作権表示
+  copyright = "Tomo" # 著作権表示
   opengraph = true # Twitter に張り付けた際にプレビューを有効化
   schema = true # SEO向け構造化データを有効化
   twitter_cards = true # Twitterカードを有効化
@@ -25,7 +25,6 @@ theme = "mainroad"
   # mathjax = false # 数式表示を有効化
   # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # 
   # mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # 
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap" # フォントをカスタマイズ
   customCSS = ["css/custom.css"] # カスタムCSSを適用
   customJS = ["js/custom.js"] # カスタムJSを適用
 [Params.style.vars]
